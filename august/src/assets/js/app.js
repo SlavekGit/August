@@ -26,6 +26,7 @@ $('.responsive').slick({
 		{
 			breakpoint: 640,
 			settings: "unslick"
+			dots: true
 		}
 
 		]
